@@ -52,7 +52,13 @@ pip install pandas numpy matplotlib seaborn plotly prophet
 
 ## Example Plots and Forecasts
 
-*Include some screenshots of your plots and forecasts here.*
+
+![image](https://github.com/SamayJain10/Weather-Forecasting-using-Prophet/assets/92438232/23918f09-79d5-4c2d-b3a1-6187203113db)
+
+![image](https://github.com/SamayJain10/Weather-Forecasting-using-Prophet/assets/92438232/a3f64c3f-860f-4fd8-9433-c544e46071da)
+
+![image](https://github.com/SamayJain10/Weather-Forecasting-using-Prophet/assets/92438232/a774a03c-e0be-416c-a1d2-07967d8fbb3a)
+
 
 ## Contributing
 
@@ -61,7 +67,5 @@ Contributions to the project are welcome. You can contribute in several ways:
 - Extending the analysis to include other weather parameters.
 - Optimizing the code for better performance.
 
-## License
 
-*Include details about the license here, if applicable.*
 
